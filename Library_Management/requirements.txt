@@ -1,0 +1,2 @@
+streamlit
+Pillow # Tkinter requires Pillow for some image handling, if needed
